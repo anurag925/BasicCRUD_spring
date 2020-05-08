@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BasicCrudApplication<basicCRUD>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.demo.BasicCrudApplication",
+            "projectName": "basicCRUD",
+            "args": ""
+        }
+    ]
+}
